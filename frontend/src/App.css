@@ -8,6 +8,7 @@
 .logo {
   height: 6em;
   padding: 1.5em;
+  pointer-events: none;
   will-change: filter;
   transition: filter 300ms;
 }
